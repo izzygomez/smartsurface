@@ -9,3 +9,4 @@ matrix(y:y+9, x:x+4) = ones(10,5);
 % Save this matrix to image named 'randomFootstep'
 imwrite(matrix, 'randomFootstep.jpeg');
 end
+% some comment

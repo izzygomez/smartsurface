@@ -1,4 +1,4 @@
-function randomTenByFiveFootstep();
+function randomTenByFiveFootstep()
 matrix = zeros(64,64); % initialize 64x64 zeros matrix
 % Get random x, y within appropriate bounds
 x = randi(60,1,1);
